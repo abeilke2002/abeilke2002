@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Aidan, and I'm college Junior studying statistics and interested in all things Baseball & Data Science!
+My name is Aidan, and I'm college Senior studying statistics and interested in all things Baseball & Data Science!
 
 - 🔭 I’m currently working on CCBL R Shiny Apps for scouts.
 - 🌱 I recently built models to find which MLB hitters are making the best swing decisions in 2024. check it out [here](https://github.com/abeilke2002/Swing-Decision/tree/main).

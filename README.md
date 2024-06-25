@@ -7,7 +7,7 @@ My name is Aidan, and I'm college Senior studying statistics and interested in a
 - 🤔 I’m currently learning about deep learning algorithms.
 - 📫 How to reach me: The best way to reach me is by email or twitter.
      - Email: aidanbeilke1@gmail.com
-     - Twitter: AnalyticsMLB_
+     - Twitter: BeilkeAidan3
 
 <!--
 **abeilke2002/abeilke2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

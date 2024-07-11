@@ -2,7 +2,7 @@
 
 My name is Aidan, and I'm college Senior studying statistics and interested in all things Baseball & Data Science!
 
-- 🔭 I’m currently working on CCBL R Shiny Apps for scouts.
+- 🔭 I’m currently working on building Neural Network Modeling.
 - 🌱 I recently built models to find which MLB hitters are making the best swing decisions in 2024. check it out [here](https://github.com/abeilke2002/Swing-Decision/tree/main).
 - 🤔 I’m currently learning about deep learning algorithms.
 - 📫 How to reach me: The best way to reach me is by email or twitter.
